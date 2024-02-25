@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652728324782",
+    "project_id": "casino-royale-e53ce",
+    "storage_bucket": "casino-royale-e53ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652728324782:android:51610a7cbba175cd62133f",
+        "android_client_info": {
+          "package_name": "com.example.casinoroyale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIREqmBYiTOpty9yo8lFmfAOscnwYpIWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
